@@ -1,0 +1,30 @@
+require('dotenv').config()
+module.exports = {
+  isHttp: true,
+  RUN_PORT: process.env.RUN_PORT,
+  SOCKET_PORT: process.env.SOCKET_PORT,
+  jwtKeyMobile: '@^$(Ujkdfasjdfjvjk)',
+  jwtKeyAdmin: 'KMWKL39578JDKWW',
+  jwtSessionExpiresTime: 86000,
+  algorithm: 'aes256',
+  cryptoKey: 'B>x2.6BQ:G-HW,><',
+  secret: process.env.secret,
+  secretKeyGoogleCaptcha: process.env.secretKeyGoogleCaptcha,
+  page_limit: 10,
+  pingInterval: 2000, // ping request moi 2s socket io
+  pingTimeout: 10000, // sau 10s bao disconnect khi mat mang,
+  pageSize: 10,
+  pageSizeChat: 50,
+  pageSizeConveration: 30,
+  mongoURI: process.env.mongoURI,
+  maxWrongAttemptsByIPperDay: 10,
+  maxConsecutiveFailsByUsernameAndIP: 5,
+  maxWrongAttemptsByUsernamePerDay: 5,
+  isDevelopment: process.env.NODE_DEV === 'development',
+  recaptchaLink: `https://www.google.com/recaptcha/api/siteverify?secret={0}&response={1}&remoteip={2}`,
+  validCaptcha: (process.env.validCaptcha === 1 || process.env.validCaptcha === '1'),
+  isEnableSendMail: true,
+  activeLink: process.env.activeLink,
+  domain: process.env.domain,
+  // vn30: ['VNM']
+}

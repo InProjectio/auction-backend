@@ -1,0 +1,60 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js "></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script>
+	// var socket = io.connect('https://api.pinetree.com.vn', { // https://socket.hft.vn:3007 http://localhost:3007 http://10.4.20.208 https://devpinedemo.cf https://10.4.20.208:3007 https://socket.hft.vn:3007 https://api.pinetree.com.vn
+	var socket = io.connect('https://adplace.ml:3666', { // https://socket.hft.vn:3007 http://localhost:3007 http://10.4.20.208 https://devpinedemo.cf https://10.4.20.208:3007 https://socket.hft.vn:3007 https://api.pinetree.com.vn
+		query: {
+			token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlZTQ0MTFmOGQyYmQ3MTM4MzE3MjRjMCIsImlhdCI6MTU5Mzg3NTU1OSwiZXhwIjoxNTkzOTYxNTU5fQ.lXJ_zz-1fdtvoTHPKshKJ5CmbUcL_3wd-Im-_cs5tng'
+		},
+	});
+
+	socket.on('connect', function(){
+	});
+
+	socket.on('changePlayList', function (data) {
+		console.log(data);
+	});
+
+	// socket.on('serverSendInfoStockPine', function (data) {
+	
+	// 	console.log(data);
+	// 	// $('#conversation').append('</b> ' + traddingData + '<br>');
+	// });
+
+	socket.on('serverSendWatchList', function (data) {
+	
+		console.log(data);
+	// $('#conversation').append('</b> ' + traddingData + '<br>');
+	});
+
+	socket.on('serverSendMarketIndex2', function(data) {
+		console.log(data)
+	})
+	// socket.on('change-stock-market', function(data) {
+	// 	console.log(data)
+	// })
+	
+	// socket.on('serverSendVNINDEX', function(data) {
+	// 	console.log(data)
+	// })
+	// socket.on('serverSendHNXINDEX', function(data) {
+	// 	console.log(data)
+	// })
+	// socket.on('serverSendUPCOMINDEX', function(data) {
+	// 	console.log(data)
+	// })
+	// socket.on('serverSendVN30INDEX', function(data) {
+	// 	console.log(data)
+	// })
+
+
+</script>
+<div style="float:left;width:100px;border-right:1px solid black;height:300px;padding:10px;overflow:scroll-y;">
+	<b>Thành viên</b>
+	<div id="users"></div>
+</div>
+<div style="float:left;width:300px;height:250px;overflow:scroll-y;padding:10px;">
+	<div id="conversation"></div>
+	<input id="data" style="width:200px;" />
+	<input type="button" id="datasend" value="send" />
+</div>

@@ -1,0 +1,446 @@
+{
+    "city": [
+        {
+            "city_code" : "QUANG-BINH",
+            "city_name" : "Quảng Bình",
+            "created_at" : "2020-12-15T05:42:52.000Z",
+            "updated_at" : "2020-12-15T05:42:52.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HA-NOI",
+            "city_name" : "Hà Nội",
+            "created_at" : "2020-12-15T05:42:53.000Z",
+            "updated_at" : "2020-12-15T05:42:53.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "QUANG-TRI",
+            "city_name" : "Quảng Trị",
+            "created_at" : "2020-12-15T05:42:58.000Z",
+            "updated_at" : "2020-12-15T05:42:58.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "AN-GIANG",
+            "city_name" : "An Giang",
+            "created_at" : "2020-12-15T05:42:59.000Z",
+            "updated_at" : "2020-12-15T05:42:59.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HA-GIANG",
+            "city_name" : "Hà Giang",
+            "created_at" : "2020-12-15T05:43:00.000Z",
+            "updated_at" : "2020-12-15T05:43:00.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "THUA-THIEN-HUE",
+            "city_name" : "Thừa Thiên Huế",
+            "created_at" : "2020-12-15T05:43:02.000Z",
+            "updated_at" : "2020-12-15T05:43:02.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "CAO-BANG",
+            "city_name" : "Cao Bằng",
+            "created_at" : "2020-12-15T05:43:03.000Z",
+            "updated_at" : "2020-12-15T05:43:03.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "DA-NANG",
+            "city_name" : "Đà Nẵng",
+            "created_at" : "2020-12-15T05:43:05.000Z",
+            "updated_at" : "2020-12-15T05:43:05.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "QUANG-NAM",
+            "city_name" : "Quảng Nam",
+            "created_at" : "2020-12-15T05:43:06.000Z",
+            "updated_at" : "2020-12-15T05:43:06.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BAC-KAN",
+            "city_name" : "Bắc Kạn",
+            "created_at" : "2020-12-15T05:43:08.000Z",
+            "updated_at" : "2020-12-15T05:43:08.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "TUYEN-QUANG",
+            "city_name" : "Tuyên Quang",
+            "created_at" : "2020-12-15T05:43:09.000Z",
+            "updated_at" : "2020-12-15T05:43:09.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "KIEN-GIANG",
+            "city_name" : "Kiên Giang",
+            "created_at" : "2020-12-15T05:43:10.000Z",
+            "updated_at" : "2020-12-15T05:43:10.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "CAN-THO",
+            "city_name" : "Cần Thơ",
+            "created_at" : "2020-12-15T05:43:11.000Z",
+            "updated_at" : "2020-12-15T05:43:11.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HAU-GIANG",
+            "city_name" : "Hậu Giang",
+            "created_at" : "2020-12-15T05:43:12.000Z",
+            "updated_at" : "2020-12-15T05:43:12.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "SOC-TRANG",
+            "city_name" : "Sóc Trăng",
+            "created_at" : "2020-12-15T05:43:13.000Z",
+            "updated_at" : "2020-12-15T05:43:13.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BAC-LIEU",
+            "city_name" : "Bạc Liêu",
+            "created_at" : "2020-12-15T05:43:14.000Z",
+            "updated_at" : "2020-12-15T05:43:14.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "QUANG-NGAI",
+            "city_name" : "Quảng Ngãi",
+            "created_at" : "2020-12-15T05:43:15.000Z",
+            "updated_at" : "2020-12-15T05:43:15.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BINH-DINH",
+            "city_name" : "Bình Định",
+            "created_at" : "2020-12-15T05:43:16.000Z",
+            "updated_at" : "2020-12-15T05:43:16.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "CA-MAU",
+            "city_name" : "Cà Mau",
+            "created_at" : "2020-12-15T05:43:18.000Z",
+            "updated_at" : "2020-12-15T05:43:18.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "LAO-CAI",
+            "city_name" : "Lào Cai",
+            "created_at" : "2020-12-15T05:43:19.000Z",
+            "updated_at" : "2020-12-15T05:43:19.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "PHU-YEN",
+            "city_name" : "Phú Yên",
+            "created_at" : "2020-12-15T05:43:20.000Z",
+            "updated_at" : "2020-12-15T05:43:20.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "DIEN-BIEN",
+            "city_name" : "Điện Biên",
+            "created_at" : "2020-12-15T05:43:21.000Z",
+            "updated_at" : "2020-12-15T05:43:21.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "KHANH-HOA",
+            "city_name" : "Khánh Hòa",
+            "created_at" : "2020-12-15T05:43:22.000Z",
+            "updated_at" : "2020-12-15T05:43:22.000Z",
+            "deleted_at" : null
+        },
+        {
+            "id" : 24,
+            "city_code" : "LAI-CHAU",
+            "city_name" : "Lai Châu",
+            "created_at" : "2020-12-15T05:43:24.000Z",
+            "updated_at" : "2020-12-15T05:43:24.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "NINH-THUAN",
+            "city_name" : "Ninh Thuận",
+            "created_at" : "2020-12-15T05:43:25.000Z",
+            "updated_at" : "2020-12-15T05:43:25.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "SON-LA",
+            "city_name" : "Sơn La",
+            "created_at" : "2020-12-15T05:43:26.000Z",
+            "updated_at" : "2020-12-15T05:43:26.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "YEN-BAI",
+            "city_name" : "Yên Bái",
+            "created_at" : "2020-12-15T05:43:28.000Z",
+            "updated_at" : "2020-12-15T05:43:28.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HOA-BINH",
+            "city_name" : "Hoà Bình",
+            "created_at" : "2020-12-15T05:43:29.000Z",
+            "updated_at" : "2020-12-15T05:43:29.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "THAI-NGUYEN",
+            "city_name" : "Thái Nguyên",
+            "created_at" : "2020-12-15T05:43:30.000Z",
+            "updated_at" : "2020-12-15T05:43:30.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BINH-THUAN",
+            "city_name" : "Bình Thuận",
+            "created_at" : "2020-12-15T05:43:32.000Z",
+            "updated_at" : "2020-12-15T05:43:32.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "KON-TUM",
+            "city_name" : "Kon Tum",
+            "created_at" : "2020-12-15T05:43:34.000Z",
+            "updated_at" : "2020-12-15T05:43:34.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "GIA-LAI",
+            "city_name" : "Gia Lai",
+            "created_at" : "2020-12-15T05:43:35.000Z",
+            "updated_at" : "2020-12-15T05:43:35.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "LANG-SON",
+            "city_name" : "Lạng Sơn",
+            "created_at" : "2020-12-15T05:43:37.000Z",
+            "updated_at" : "2020-12-15T05:43:37.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "DAK-LAK",
+            "city_name" : "Đắk Lắk",
+            "created_at" : "2020-12-15T05:43:39.000Z",
+            "updated_at" : "2020-12-15T05:43:39.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "QUANG-NINH",
+            "city_name" : "Quảng Ninh",
+            "created_at" : "2020-12-15T05:43:41.000Z",
+            "updated_at" : "2020-12-15T05:43:41.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "DAK-NONG",
+            "city_name" : "Đắk Nông",
+            "created_at" : "2020-12-15T05:43:44.000Z",
+            "updated_at" : "2020-12-15T05:43:44.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "LAM-DONG",
+            "city_name" : "Lâm Đồng",
+            "created_at" : "2020-12-15T05:43:45.000Z",
+            "updated_at" : "2020-12-15T05:43:45.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BAC-GIANG",
+            "city_name" : "Bắc Giang",
+            "created_at" : "2020-12-15T05:43:46.000Z",
+            "updated_at" : "2020-12-15T05:43:46.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "PHU-THO",
+            "city_name" : "Phú Thọ",
+            "created_at" : "2020-12-15T05:43:48.000Z",
+            "updated_at" : "2020-12-15T05:43:48.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "VINH-PHUC",
+            "city_name" : "Vĩnh Phúc",
+            "created_at" : "2020-12-15T05:43:51.000Z",
+            "updated_at" : "2020-12-15T05:43:51.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BAC-NINH",
+            "city_name" : "Bắc Ninh",
+            "created_at" : "2020-12-15T05:43:52.000Z",
+            "updated_at" : "2020-12-15T05:43:52.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BINH-PHUOC",
+            "city_name" : "Bình Phước",
+            "created_at" : "2020-12-15T05:43:54.000Z",
+            "updated_at" : "2020-12-15T05:43:54.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "TAY-NINH",
+            "city_name" : "Tây Ninh",
+            "created_at" : "2020-12-15T05:43:55.000Z",
+            "updated_at" : "2020-12-15T05:43:55.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BINH-DUONG",
+            "city_name" : "Bình Dương",
+            "created_at" : "2020-12-15T05:43:56.000Z",
+            "updated_at" : "2020-12-15T05:43:56.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HAI-DUONG",
+            "city_name" : "Hải Dương",
+            "created_at" : "2020-12-15T05:43:57.000Z",
+            "updated_at" : "2020-12-15T05:43:57.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "DONG-NAI",
+            "city_name" : "Đồng Nai",
+            "created_at" : "2020-12-15T05:44:00.000Z",
+            "updated_at" : "2020-12-15T05:44:00.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HAI-PHONG",
+            "city_name" : "Hải Phòng",
+            "created_at" : "2020-12-15T05:44:01.000Z",
+            "updated_at" : "2020-12-15T05:44:01.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HUNG-YEN",
+            "city_name" : "Hưng Yên",
+            "created_at" : "2020-12-15T05:44:04.000Z",
+            "updated_at" : "2020-12-15T05:44:04.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BA-RIA-VUNG-TAU",
+            "city_name" : "Bà Rịa - Vũng Tàu",
+            "created_at" : "2020-12-15T05:44:06.000Z",
+            "updated_at" : "2020-12-15T05:44:06.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "THAI-BINH",
+            "city_name" : "Thái Bình",
+            "created_at" : "2020-12-15T05:44:07.000Z",
+            "updated_at" : "2020-12-15T05:44:07.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HA-NAM",
+            "city_name" : "Hà Nam",
+            "created_at" : "2020-12-15T05:44:09.000Z",
+            "updated_at" : "2020-12-15T05:44:09.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HO-CHI-MINH",
+            "city_name" : "Hồ Chí Minh",
+            "created_at" : "2020-12-15T05:44:10.000Z",
+            "updated_at" : "2020-12-15T05:44:10.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "NAM-DINH",
+            "city_name" : "Nam Định",
+            "created_at" : "2020-12-15T05:44:13.000Z",
+            "updated_at" : "2020-12-15T05:44:13.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "NINH-BINH",
+            "city_name" : "Ninh Bình",
+            "created_at" : "2020-12-15T05:44:15.000Z",
+            "updated_at" : "2020-12-15T05:44:15.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "THANH-HOA",
+            "city_name" : "Thanh Hóa",
+            "created_at" : "2020-12-15T05:44:17.000Z",
+            "updated_at" : "2020-12-15T05:44:17.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "LONG-AN",
+            "city_name" : "Long An",
+            "created_at" : "2020-12-15T05:44:21.000Z",
+            "updated_at" : "2020-12-15T05:44:21.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "TIEN-GIANG",
+            "city_name" : "Tiền Giang",
+            "created_at" : "2020-12-15T05:44:24.000Z",
+            "updated_at" : "2020-12-15T05:44:24.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "BEN-TRE",
+            "city_name" : "Bến Tre",
+            "created_at" : "2020-12-15T05:44:26.000Z",
+            "updated_at" : "2020-12-15T05:44:26.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "NGHE-AN",
+            "city_name" : "Nghệ An",
+            "created_at" : "2020-12-15T05:44:27.000Z",
+            "updated_at" : "2020-12-15T05:44:27.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "TRA-VINH",
+            "city_name" : "Trà Vinh",
+            "created_at" : "2020-12-15T05:44:32.000Z",
+            "updated_at" : "2020-12-15T05:44:32.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "HA-TINH",
+            "city_name" : "Hà Tĩnh",
+            "created_at" : "2020-12-15T05:44:33.000Z",
+            "updated_at" : "2020-12-15T05:44:33.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "VINH-LONG",
+            "city_name" : "Vĩnh Long",
+            "created_at" : "2020-12-15T05:44:36.000Z",
+            "updated_at" : "2020-12-15T05:44:36.000Z",
+            "deleted_at" : null
+        },
+        {
+            "city_code" : "DONG-THAP",
+            "city_name" : "Đồng Tháp",
+            "created_at" : "2020-12-15T05:44:37.000Z",
+            "updated_at" : "2020-12-15T05:44:37.000Z",
+            "deleted_at" : null
+        }
+    ]}
+    
